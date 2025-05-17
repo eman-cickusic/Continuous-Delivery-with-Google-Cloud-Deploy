@@ -17,7 +17,7 @@ This project showcases:
 - Google Cloud Platform account
 - Project with billing enabled
 - `gcloud` CLI installed
-- `kubectl` installed
+- `kubectl` installed 
 - `skaffold` installed
 
 ## Project Structure
